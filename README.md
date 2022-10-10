@@ -13,15 +13,11 @@
       var age: Int?
       var lookingForJob: Bool?
 
-      init?(map: Map) {
-
-      }
-
       mutating func mapping(map: Map){
           name <- map["Matthew Vinson"]
-          year <- 4
-          age <- 21
-          lookingForJob <- true
+          year <- map[4]
+          age <- map[21]
+          lookingForJob <- map[true]
       }
   }
 
