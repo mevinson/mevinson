@@ -1,5 +1,10 @@
-<img src=""/>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77406076/194965121-18ad72a6-082b-4123-a6c3-54fd13e77da1.gif" 
+        alt="Welcom to my profile" 
+        width="439" 
+        height="121" 
+        style=".centerImage" />
+</p>
 
 <p><em>A bachelor student at the <a href="https://sc.edu/">University of South Carolina</a>, majoring in Computer Science with a minor in Media Arts.</br>
 </em></p>
