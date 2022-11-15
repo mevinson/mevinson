@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/77406076/194965121-18ad72a6-082b-4123-a6c3-54fd13e77da1.gif" 
         alt="Welcom to my profile" 
-        width="439" 
-        height="121" 
+        width="548" 
+        height="151" 
         style=".centerImage" />
 </p>
 
