@@ -1,52 +1,29 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/77406076/194965121-18ad72a6-082b-4123-a6c3-54fd13e77da1.gif" 
-        alt="Welcom to my profile" 
-        width="548" 
-        height="151" 
-        style=".centerImage" />
+# About me
+![github_art](https://user-images.githubusercontent.com/77406076/210678777-e8b260a5-6caf-4a4c-8faf-668c84bfaf27.jpg)
+
+
+
+<p>
+    A Bachelor Student at the <a href="https://sc.edu/">University of South Carolina</a>, Majoring in Computer Science also pursuing a Minor in Media Arts. I'll be
+    graduating at the end of the upcoming Spring '23 semester and am actively seeking employment opportunities for post-graduation, all contact information is posted on
+    my <a href="https://www.linkedin.com/in/mevinson/">LinkedIn</a></br>
 </p>
 
-<p><em>A bachelor student at the <a href="https://sc.edu/">University of South Carolina</a>, majoring in Computer Science with a minor in Media Arts.</br>
-</em></p>
-
-```swift
-  import Foundation
-
-  struct Person: Mappable {
-      var name: String?
-      var year: Int?
-      var age: Int?
-      var lookingForJob: Bool?
-
-      mutating func mapping(map: Map){
-          name <- map["Matthew Vinson"]
-          year <- map[4]
-          age <- map[21]
-          lookingForJob <- map[true]
-      }
-  }
-
-  extension Info {
-      static let pronouns = ("He","Him")
-      static let email = "mevinson@email.sc.edu"
-      static let website = "www.mevinson.live"
-      static let favColor = Color(red: 78 / 255, green: 63 / 255, blue: 78/255) //Lilac
-  }
-
-  func aboutMe() {
-      let languages = ["Java", "C++", "C#", "Swift", "Python", "JS"]
-      let frameworks = ["SwiftUI", "TensorFlow", "Pytorch", "MongoKitten"]
-      var cloudPlatforms: Deque = ["AWS", "GCP", "Microsoft Azure"]
-      let database = "MongoDB"
-
-      var workExp = """
-      Product Support Engineer at SIOS Technology Corp. primarily responsible for the Linux products. Main duties include \
-      handling cases with customers, obtaining and analyzing Windows and Linux system logs, providing root-cause-analysis \
-      to the customer, and sharing solution/workaround if needed. Other duties include code reviews, bug triage, \ 
-      Salesforce maintenance/upgrades, customer license rehosts, creating solutions for the customer support portal, \
-      QA testing, and much more. 
-      """
-  }
+```javascript
+const aboutMe = {
+    pronouns: "He"|"Him",
+    age: 22,
+    code_proficient: [Java, Javascript, 'C#', Python, Swift],
+    code_experienced: [C, 'C++', Perl, HTML, CSS],
+    technologies: {
+        source_control: "Github",
+        frameworks: ['.NET', 'SwiftUI'],
+        frameworks_learning: ['Node.JS'],
+        libraries: ['MongoKitten'],
+        database: "Mongodb"
+    },
+    looking_for_work: True
+};
 ```
 
 </br></br>
