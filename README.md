@@ -1,8 +1,3 @@
-# About me
-
-![github_art](https://user-images.githubusercontent.com/77406076/210679686-249cad77-a0b2-4573-95f1-33819fffc5b5.jpg)
-
-
 <p>
     A Bachelor Student at the <a href="https://sc.edu/">University of South Carolina</a>, Majoring in Computer Science also pursuing a Minor in Media Arts. I'll be
     graduating at the end of the upcoming Spring '23 semester and am actively seeking employment opportunities for post-graduation, all contact information is posted on
