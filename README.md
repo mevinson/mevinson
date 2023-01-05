@@ -1,6 +1,6 @@
 # About me
-![github_art](https://user-images.githubusercontent.com/77406076/210678777-e8b260a5-6caf-4a4c-8faf-668c84bfaf27.jpg)
 
+![github_art](https://user-images.githubusercontent.com/77406076/210679686-249cad77-a0b2-4573-95f1-33819fffc5b5.jpg)
 
 
 <p>
