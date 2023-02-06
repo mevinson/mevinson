@@ -15,7 +15,7 @@ const aboutMe = {
         frameworks: ['.NET', 'SwiftUI'],
         frameworks_learning: ['Node.JS'],
         libraries: ['MongoKitten'],
-        database: "Mongodb",
+        database: ['Mongodb', 'SQL'],
         other: ['Adobe creative suite', 'Blender', 'Unity']
     },
     looking_for_work: True
