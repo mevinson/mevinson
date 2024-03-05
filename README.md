@@ -1,5 +1,5 @@
 <p>
-    A Bachelor Graduate at the <a href="https://sc.edu/">University of South Carolina</a>, Majoring in Computer Science also pursuing a Minor in Media Arts. I graduated at the end of the Spring '23 semester and am actively seeking employment opportunities, all contact information is posted on
+    A Bachelor graduate at the <a href="https://sc.edu/">University of South Carolina</a>, Majoring in Computer Science also pursuing a Minor in Media Arts. I graduated at the end of the Spring '23 semester and am actively seeking employment opportunities, all contact information is posted on
     my <a href="https://www.linkedin.com/in/mevinson/">LinkedIn</a></br>
 </p>
 
